@@ -17,6 +17,7 @@ namespace threadOption
     {
         public Form1()
         {
+
             InitializeComponent();
         }
 
